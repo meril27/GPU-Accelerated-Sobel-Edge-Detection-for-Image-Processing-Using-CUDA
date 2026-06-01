@@ -1,4 +1,4 @@
-# GPU-Accelerated-Sobel-Edge-Detection-for-Image-Processing-Using-CUDA
+# GPU Accelerated Sobel Edge Detection for Image Processing Using CUDA
 
 ## DEVELOPED BY : MERIL GOLDLINA A
 
